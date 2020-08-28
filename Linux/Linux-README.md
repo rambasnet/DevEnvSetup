@@ -10,9 +10,9 @@
 
 ## Instruction Notes
 
-- **\$** is default prompt for regular user and is always there on Ubuntu Bash Terminal
+- **\$** is default prompt for regular user and is always there on a Bash Terminal
   - you don't type it as a part of command
-- **#** on bash command is comment ignored by the Bash terminal
+- **#** on bash command is comment ignored by the Terminal
   - you don't need to type it as a part of command
 - any command that starts with **sudo** keyword requires admin (sudo in Linux) priviledge and prompts for your password
 - **\< ... \>** - is a place holder that must be completely replaced (including the angular brackets) with actual content in place
@@ -115,7 +115,7 @@ bash  Miniconda3.sh # run the downloaded file with bash program
     - enter **yes** to accept the license terms
     - press **ENTER key** to confirm the default location
     - enter **yes** to initialize Miniconda3
-    - close and reopen Ubuntu Bash Terminal
+    - close and reopen a Terminal
     - check current conda version installed
 
 ```bash
@@ -130,7 +130,7 @@ conda update conda # update conda; enter y if asked to update packages
 
 ## Install notebook and xeus-cling kernel to run C++ code on Jupyter Notebook
 
-1. make sure you're on Ubuntu Bash Terminal
+1. make sure you're on a Bash Terminal
 2. run the following commands
 
 ```bash
