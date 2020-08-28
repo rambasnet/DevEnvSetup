@@ -9,13 +9,13 @@
 - git version control
 - g++ compiler
 - Jupyter Notebook
-- c++ kernel for Notebook
+- C++ kernel for Notebook
 
 ## Instruction Notes
 
 - **\$** is default prompt for regular user and is always there on Ubuntu Bash Terminal
   - you don't type it as a part of command
-- **#** is comment ignored by the Bash terminal
+- **#** on bash command is comment ignored by the Bash terminal
   - you don't need to type it as a part of command
 - any command that starts with **sudo** keyword requires admin (sudo in Linux) priviledge and prompts for your password
 - **\< ... \>** - is a place holder that must be completely replaced (including the angular brackets) with actual content in place
@@ -74,7 +74,7 @@ echo %username%
     1. search Ubuntu
     2. click Ubuntu icon to run the Terminal
 
-### Update Ubuntu
+## Update Ubuntu
 
 1. make sure you're on Ubuntu Bash Terminal; see above if not sure how
 2. type the following commands
@@ -85,7 +85,7 @@ cd ~ # change current working directory to user's home directory
 sudo apt update # update Ubuntu app; will ask you to type your password
 ```
 
-### Install g++ compiler and relevant tools
+## Install g++ compiler and relevant tools
 
 1. make sure you're on Ubuntu Bash Terminal
 2. run the following commands on Bash Terminal
@@ -96,7 +96,7 @@ sudo apt install ccache # compiler cache - speeds up compiling the same source f
 g++ --version # check if g++ is installed
 ```
 
-## Install git client
+## Install git
 
 1. make sure you're on Ubuntu Bash Terminal
 2. git should be already installed; double check
@@ -168,11 +168,12 @@ cp ~/.ssh/id_rsa /mnt/c/Users/<your windows username>/.ssh/id_rsa
 ```
 
 10. list the content of the public key to copy to GitHub
-    - **select** the contents from: ssh-rsa…. all the way to the end and **right click** to copy
 
 ```bash
 cat ~/.ssh/id_rsa.pub
 ```
+
+11. **select/highlight** the contents from: ssh-rsa…. all the way to the end and **right click** to copy
 
 - now add the public key to GitHub profile settings
     1. click on your github avatar on your dashboard page github.com/\<username\>
