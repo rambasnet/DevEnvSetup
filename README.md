@@ -14,7 +14,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 - if you're using Mac, follow the instructions on [Mac/CPP-Mac-README.md](Mac/CPP-Mac-README.md) to setup of C++ Dev Environment
 
-## Linux
+## Ubuntu Linux
 
 ### C++ Dev Environemt Setup
 
