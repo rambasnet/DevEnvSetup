@@ -35,7 +35,7 @@
 
 ## Install command-line developer tools (g++, git, etc.)
 
-1. make sure you're on Terminal
+1. make sure you're on a Terminal
 2. run the following commands on the Terminal
 
 ```bash
