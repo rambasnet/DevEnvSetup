@@ -11,7 +11,7 @@
     ![Search Feature](WSL-Search-Feature.png)
     2. run the Windows Feature app
     3. find and check Windows Subsystem for Linux towards the bottom of the list
-    ![Windows Features](WSL-Feature.png)
+    ![Windows Features](WSL-Check-Feature.png)
     4. click ok button
         - Note, it may take a while
     5. restart your computer
@@ -20,9 +20,9 @@
 2. install Ubuntu App following these steps
     1. search for Microsoft Store and run it
     ![Microsoft Store](WSL-Store.png)
-    3. search and open Ubuntu App
+    2. search and open Ubuntu App
     ![MS Store Ubuntu](WSL-Store-Ubuntu.png)
-    4. Install the Ubuntu App
+    3. Install the Ubuntu App
     ![Ubuntu Install](WSL-Ubuntu-Install.png)
         - Note, it may take a while depending on Internet speed (>4GB download file)
     4. once installed, Launch the app

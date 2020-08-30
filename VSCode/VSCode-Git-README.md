@@ -1,10 +1,12 @@
-# Using Git with Visual Studio Code
+# Using Git
 
+- Git can be used with various Graphical User Interface (GUI)-based applications or using Command Line Interface (CLI)
 - VS Code provides GUI interface to work with your git repository
 - GUI interface makes it easy to work with git repository (e.g. add, commit, push, pull, etc.)
-- commandline is an alternative and this document provides instructions for both GUI and Command line interface of git
+- command line is an alternative and this document provides instructions for both GUI and Command line interface of git
+- Git must be configured, before the GUI or CLI can be used to work with your repository
 
-## Use Git GUI Interface on VS Code
+## Git GUI Interface on VS Code
 
 1. open VS Code on your system
     - Note that Windows WSL Ubuntu must have Remote-WSL extension installed to access files from Windows as well as WSL Ubuntu
@@ -34,3 +36,26 @@
 6. Check your GitHub.com repository and make sure you see test folder and test.txt file
     - if you're on the repo page, you'll need to refresh/reload the page
     ![GitHub Check](GitHubCheck.png)
+6. when workin in team or want to work from different system, you must first pull to avoid conflicts
+    1. click ... more button on Source Control panel.
+    2. click Pull, Push and click Pull
+
+## CLI Git commands
+
+- open Bash Terminal separately or Integrated Terminal on VS Code
+- current working director must be repositry's root folder to issue git commands
+- the most commonly used commands are: add, commit, push and pull
+
+    ```bash
+    cd <repository folder>
+    git status # check the status
+    git add <add new or modified file shown in red>
+    git commit -m "write a brief message"
+    git push # send/upload the updates to remote repo
+    git status # make sure everything is uptodate
+    git pull # pull/dowloand updates from remote repo
+    ```
+
+![CLI Git](Git-CLI.png)
+
+- confrim the remote repository on GitHub is uptodate

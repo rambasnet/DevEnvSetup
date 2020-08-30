@@ -15,7 +15,7 @@
     ![VS Code Installer](CodeInstaller.png)
 
 3. run the dowloaded Installer program
-    1. select I Accept the agreement
+    1. select "I Accept the agreement"
     2. select default destination folder
     ![Destination](CodeDestination.png)
     ![Start Menu](StartMenu.png)

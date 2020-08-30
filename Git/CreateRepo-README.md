@@ -32,12 +32,9 @@ Instructions on how to create and clone git repository for courses
     1. go to your repository's main page by clicking Profile icon -> Your Repositories menu item
 
     ![Your Repositories](collaborator.png)
-
     2. click Repository's Settings tab
     3. Manage Access
-
     ![Manage Access](ManageAccess.png)
-
     4. click Invite a collaborator
     5. search collaborator by username or full name and select the right one from the list, e.g. rambasnet, wmacevoy, etc.
 
@@ -80,4 +77,3 @@ Instructions on how to create and clone git repository for courses
 
 6. Open the repo folder with your favourite editor (VS Code, e.g.) and create files and folders as required by the course
     - see using Git with Visual Studio Code Editor instructions
-
