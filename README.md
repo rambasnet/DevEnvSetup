@@ -8,7 +8,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 - if you're running Windows 10, follow the instructions on [Windows/CPP-Windows10-README.md](Windows/CPP-Windows10-README.md) to setup C++ Dev Environment
 
-## Mac 
+## Mac
 
 ### C++ Dev Environment Setup
 
