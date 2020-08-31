@@ -4,7 +4,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Instruction Notes
 
-- **\$** is default prompt for regular user and is always there on Ubuntu Bash Terminal
+- **\$** is default prompt for regular user and is always there on Mac and Ubuntu Bash Terminal
   - you don't type it as a part of command
 - **#** on bash command is comment ignored by the Bash terminal
   - you don't need to type it as a part of command
@@ -13,7 +13,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Windows 10
 
-If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu to install Linux-based tool chains
+If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains
 
 ### C++ Dev Environemt Setup on Windows
 
