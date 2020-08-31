@@ -16,11 +16,15 @@
 - follow these steps to find your username on Windows
 
 1. on Windows search for Command Prompt app
-2. run Command Prompt app and type the following command on prompt, the output is your username
+2. run Command Prompt app
+    ![Command Prompt](CmdPrompt.png)
+3. type the following command on prompt, the output is your Windows username
 
     ```bash
     echo %username%
     ```
+
+    ![Username](Username.png)
 
 ## Install Visual Studio Code
 
