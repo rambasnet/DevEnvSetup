@@ -8,7 +8,7 @@
 
     ```bash
     cd ~ # change current working directory to user's home directory
-    curl -o Miniconda3.sh https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
+    curl -o Miniconda3.sh https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
     ls # make sure you see Miniconda3.sh file in the current folder
     bash  Miniconda3.sh # run the downloaded file with bash program
     ```
