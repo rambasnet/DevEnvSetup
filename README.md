@@ -33,7 +33,7 @@ If you're running Mac, follow the instructions in this section
 
 ### Python3 Dev Environment Setup on Mac
 
-- follow the instructions on [Mac/Mac-Python-README.md](Mac/Mac-Python-README.md) to setup Python3 development environment on mac
+- follow the instructions on [Mac/Mac-Python3-README.md](Mac/Mac-Python3-README.md) to setup Python3 development environment on mac
 
 ## Ubuntu Linux
 
@@ -45,7 +45,7 @@ If you're running Ubuntu Linux, follow the instructions in this section
 
 ### Python3 Dev Environment Setup on Ubuntu
 
-- follow the instructions on [Linux/Linux-Python-README.md](Linux/Linux-Python-README.md) to setup Python3 Dev Environment on Ubuntu
+- follow the instructions on [Linux/Linux-Python3-README.md](Linux/Linux-Python3-README.md) to setup Python3 Dev Environment on Ubuntu
 
 ## Using Git
 
