@@ -6,7 +6,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 - **\$** is default prompt for regular user and is always there on Mac and Ubuntu Bash Terminal
   - you don't type it as a part of command
-- **#** on bash command is comment ignored by the Bash terminal
+- **#** on bash command is comment ignored by the Bash Terminal
   - you don't need to type it as a part of command
 - any command that starts with **sudo** keyword requires admin priviledge and prompts for your password
 - **\< ... \>** - is a place holder that must be completely replaced (including the angular brackets) with actual content in place
