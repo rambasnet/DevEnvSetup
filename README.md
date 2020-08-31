@@ -15,7 +15,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains
 
-### C++ Dev Environemt Setup on Windows
+### C++ Dev Environment Setup on Windows
 
 - follow the instructions on [Windows/Windows-CPP-README.md](Windows/Windows-CPP-README.md) to setup C++ Dev Environment on Windows
 
