@@ -70,10 +70,10 @@ If you're running Ubuntu Linux, follow the instructions in this section
 - students should strive to organize their repository with uptodate README file
 - see demo [here](https://github.com/rambasnet/csci000-astudent)
 
-## Linux References
+## Linux and Mac Bash Commands References
 
-- Learn Linux Commands [http://linuxcommand.org/](http://linuxcommand.org/)
-- Quick Reference pdf [here](https://files.fosswire.com/2007/08/fwunixref.pdf)
+- In Depth Linux Bash Commands and Scripts [http://linuxcommand.org/](http://linuxcommand.org/)
+- Quick Reference [pdf here](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
 ## Online Editors
 
