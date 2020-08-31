@@ -1,4 +1,4 @@
-# Setting up Python Development Environment on Ubuntu Linux
+# Setting up Python3 Development Environment on Ubuntu Linux
 
 ## Tools
 
