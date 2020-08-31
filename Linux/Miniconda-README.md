@@ -1,7 +1,7 @@
-# Installing Miniconda Python3 Package Manager on Ubuntu
+# Installing Miniconda3 Python3 Package Manager on Ubuntu
 
-- miniconda install provides Python3 as well
-- miniconda can be used to install various other Python packages such as jupyter notebook, machine learning libraries, etc.
+- miniconda3 install provides Python3 as well
+- miniconda3 can be used to install various other Python3 packages such as jupyter notebook, machine learning libraries, etc.
 
 1. open Ubuntu Bash Terminal
 2. type or copy paste the following commands
