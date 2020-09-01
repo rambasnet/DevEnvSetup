@@ -56,7 +56,7 @@
     sudo apt update
     ```
 
-    ![Update Ubuntu](WSL-update.png)
+    ![Update Ubuntu](WSL-Update.png)
 
 4. Run Ubuntu Bash Terminal
     - search and open Ubuntu
