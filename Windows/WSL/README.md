@@ -34,7 +34,8 @@
     3. Install the Ubuntu App
 
     ![Ubuntu Install](WSL-Ubuntu-Install.png)
-        - Note, it may take a while depending on Internet speed (>4GB download file)
+
+        - Note, it may take a while depending on Internet speed (>4GB download)
 
     4. once installed, Launch the app
 
