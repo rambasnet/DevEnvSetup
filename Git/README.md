@@ -1,14 +1,17 @@
-# Install Git on WSL and Ubuntu
+# Git Installation on Configuration
 
-1. run Ubuntu Bash Terminal
-2. git should be already installed; double check by typing the following command on Bash Terminal
+## Install Git on Mac
 
-    ```bash
-    git --version
-    ```
+- follow the instructions here [Git-Install-Mac.md](Git-Install-Mac.md)
 
-3. If you get error while checking git version, install git typing the following command
+## Install Git on Ubuntu and WSL Windows
 
-    ```bash
-    sudo apt install git
-    ```
+- follow the instructions here [Git-Install-Ubuntu-README.md](Git-Install-Ubuntu-README.md)
+
+## Configure Git on Windows WSL, Mac and Linux
+
+- follow the instructions here [Git-Config-README.md](Git-Config-README.md)
+
+## Using Git with VSCode and Terminal
+
+- follow the instructions here [../VSCode/VSCode-Git-README.md](../VSCode/VSCode-Git-README.md)

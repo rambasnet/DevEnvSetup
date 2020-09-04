@@ -6,7 +6,7 @@
 1. Create your free account on [https://gitub.com](https://github.com/join), if you don't have one yet
     - pick a username that closely represents you such as your firstname and lastname; depends on availability
 
-2. open a Terminal
+2. open a Terminal (Ubuntu App on Windows WSL)
 3. Let git know who you are. Use your real name and email you registered on GitHub
 
     ```bash

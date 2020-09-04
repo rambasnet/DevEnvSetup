@@ -29,7 +29,7 @@
 
 ## Install Git
 
-- follow the instructions in [../Git/README.md](../Git/README.md)
+- follow the instructions in [../Git/Git-Install-Ubuntu-README.md](../Git/Git-Install-Ubuntu-README.md)
 
 ## Configure Git
 
