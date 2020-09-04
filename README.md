@@ -61,6 +61,10 @@ If you're running Ubuntu Linux, follow the instructions in this section
 
 - read the Google doc [here](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
 
+### Git Command Cheatsheet
+
+- [https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
 ### GitHub Markdown Cheatsheet
 
 - quick reference and showcase [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -81,3 +85,8 @@ If you're running Ubuntu Linux, follow the instructions in this section
 - [https://www.onlinegdb.com/online_c++_compiler](https://www.onlinegdb.com/online_c++_compiler) - online debugger
 - [https://coliru.stacked-crooked.com/](https://coliru.stacked-crooked.com/)
 - [http://cpp.sh](http://cpp.sh/)
+
+
+## Jupyter Notebook Shortcuts
+
+- [https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
