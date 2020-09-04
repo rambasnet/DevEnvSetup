@@ -26,9 +26,9 @@
 
 1. search for it and run it
 
-## Install VS Code in WSL Ubuntu
+## Configure VS Code for WSL Ubuntu
 
-- if VS Code is installed for WSL Ubunut files and folders in both Windows and Ubuntu can be accessed easily from VS Code Explorer
+- if VS Code is configured properly both Ubuntu files and folders and Windows and Ubuntu can be accessed easily from VS Code File -> Open Menu
 
 1. first install VS Code in Windows (see above)
 2. install WSL Ubuntu (see [../WSL/README.md](../WSL/README.md))
@@ -53,3 +53,7 @@
     ```bash
     code .
     ```
+
+## Configure Terminal for VS Code
+
+- follow the instruction on [VSCode-Terminal-README.md](VSCode-Terminal-README.md)
