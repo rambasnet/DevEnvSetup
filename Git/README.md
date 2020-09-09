@@ -15,3 +15,7 @@
 ## Using Git with VSCode and Terminal
 
 - follow the instructions here [../VSCode/VSCode-Git-README.md](../VSCode/VSCode-Git-README.md)
+
+## Creating a Github Repository
+
+- follow the instruction here [CreateRepo-README.md](CreateRepo-README.md)
