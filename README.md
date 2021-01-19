@@ -13,7 +13,9 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Windows 10
 
-If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains
+If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains. 
+
+NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine and follow the instruction for Linux development environment setup.
 
 ### C++ Dev Environment Setup on Windows
 
@@ -35,6 +37,10 @@ If you're running Mac, follow the instructions in this section
 
 - follow the instructions on [Mac/Mac-Python3-README.md](Mac/Mac-Python3-README.md) to setup Python3 development environment on mac
 
+### JavaScript Dev Environment Setup on Mac
+
+- follow the instructions on [Mac/Mac-JavaScript-README.md](Mac/Mac-JavaScript-README.md)
+
 ## Ubuntu Linux
 
 If you're running Ubuntu Linux, follow the instructions in this section
@@ -46,6 +52,10 @@ If you're running Ubuntu Linux, follow the instructions in this section
 ### Python3 Dev Environment Setup on Ubuntu
 
 - follow the instructions on [Linux/Linux-Python3-README.md](Linux/Linux-Python3-README.md) to setup Python3 Dev Environment on Ubuntu
+
+### JavaScript Dev Environment Setup on Ubuntu
+
+- follow the instructions on [Linux/Linux-JavaScript-README.md](Linux/Linux-JavaScript-README.md)
 
 ## Using Git
 
