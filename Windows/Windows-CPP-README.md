@@ -77,7 +77,7 @@
     jupyter notebook # run jupyter notebook from the current working directory
     ```
 
-3. if a browser doesn’t open, copy and paste (Ctrl+v) link (just highlight and release mouse) shown on terminal to a browser
+3. if a browser doesn’t open automatically, copy (highlight and release mouse) link shown on the Terminal and paste (Ctrl+v) it to an opened browser (e.g., Chrome)
 
 ## Stop Jupyter Notebook server
 
