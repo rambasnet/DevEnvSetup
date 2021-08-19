@@ -6,19 +6,26 @@
 - git version control
 - GNU g++ compiler
 - Jupyter Notebook
-- C++ kernel for Notebook
+- C++ kernel for Jupyter Notebook
 
 ## Install Visual Studio Code
 
 - recommended editor for writing C++ code, compiling and debugging
 - editor that has many built-in features including git, terminal and many third party plugins to support many programming languages
 - download and install VS Code for Ubuntu (.deb) from [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+- install install .deb file using a terminal
+- Note: do not type `< >` placeholder brackets with the command
+
+    ```bash
+    cd <folder with the .deb file>
+    sudo dpkg -i <code_package_file.deb>
+    ```
 
 ## Configure Visual Studio Code
 
 - follow the instructions in [../VSCode/VSCode-CPP-README.md](../VSCode/VSCode-CPP-README.md)
 
-## Run Bash Terminal/Shell
+## Run Bash/Shell Terminal
 
 1. search and run Terminal
 2. add it to favourites for quick access

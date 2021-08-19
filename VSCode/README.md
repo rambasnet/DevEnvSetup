@@ -1,11 +1,11 @@
-# VS Code Installation on Configuration
+# VS Code Installation and Configuration
 
-- recommended editor for writing C++ code, compiling and debugging
+- recommended editor for writing C++, Python, JavaScript codes, compiling and debugging
 - editor that has many built-in features including git, terminal and many third party plugins to support many programming languages
 
-## VS Code Installation on Windows WSL
+## VS Code Installation on Windows/WSL
 
-- follow the instructions on [VSCode-Install-README.md](VSCode-Install-README.md)
+- follow the instructions on [VSCode-Install-README.md](../Windows/VSCode/VSCode-Install-README.md)
 
 ## VS Code Installation on Mac
 
