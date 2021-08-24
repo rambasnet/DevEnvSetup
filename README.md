@@ -15,7 +15,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains.
 
-NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine and follow the instruction for Linux development environment setup.
+NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine (VM) and follow the instruction for Linux development environment setup. In order to run VM smoothly, your system must have atleast 8 GB RAM and 4 cores so you can allocate 4GB RAM and 2 cores to your VM. You can format and install Ubuntu Linux as the host Operating System if your system doesn't have aequate resources.
 
 ### C++ Dev Environment Setup on Windows
 
