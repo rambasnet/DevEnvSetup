@@ -82,7 +82,7 @@ If you're running Ubuntu Linux, follow the instructions in this section
 ### Student's Sample GitHub Repo
 
 - students should strive to organize their repository with uptodate README file
-- see demo [here](https://github.com/rambasnet/csci000-astudent)
+- see a sample repo [here](https://github.com/rambasnet/csci000-astudent)
 
 ## Linux and Mac Bash Commands References
 
