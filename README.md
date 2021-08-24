@@ -31,7 +31,7 @@ If you're running Mac, follow the instructions in this section
 
 ### C++ Dev Environment Setup on Mac
 
-- follow the instructions on [Mac/Mac-CPP-README.md](Mac/Mac-CPP-README.md) to setup of C++ Dev Environment on Mac.
+- follow the instructions on [Mac/Mac-CPP-README.md](Mac/Mac-CPP-README.md) to setup of C++ Dev Environment on Mac
 
 ### Python3 Dev Environment Setup on Mac
 
