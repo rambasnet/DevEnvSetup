@@ -13,7 +13,7 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Windows 10
 
-If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains. 
+If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains.
 
 NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine and follow the instruction for Linux development environment setup.
 
@@ -67,7 +67,7 @@ If you're running Ubuntu Linux, follow the instructions in this section
 
 - follow the instructions on [VSCode/VSCode-Git-README.md](VSCode/VSCode-Git-README.md)
 
-### Deeper Git Instruction
+### Deeper Git Instructions
 
 - read the Google doc [here](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
 
@@ -89,8 +89,9 @@ If you're running Ubuntu Linux, follow the instructions in this section
 - In Depth Linux Bash Commands and Scripts [http://linuxcommand.org/](http://linuxcommand.org/)
 - Quick Reference [pdf here](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
-## Online Editors
+## Online Code Editors and IDE
 
+- Online IDE - [https://www.online-ide.com/]
 - [https://repl.it/](https://repl.it/)
 - [https://www.onlinegdb.com/online_c++_compiler](https://www.onlinegdb.com/online_c++_compiler) - online debugger
 - [https://coliru.stacked-crooked.com/](https://coliru.stacked-crooked.com/)
