@@ -1,9 +1,9 @@
-# Visual Studio (VS) Code Insallation Instruction on Windows
+# Visual Studio (VS) Code Installation Instruction on Windows
 
 ## Install VS Code on Windows
 
 1. find the system type (32bit or 64bit or ARM) of your Windows system
-    1. search and run This PC Properties
+    1. search and run "This PC" -> Properties
     ![This PC Properties](PCProperties.png)
     2. note system type
     ![System Type](SystemType.png)
@@ -11,10 +11,10 @@
 2. download the right version of VS Code installer for your machine from here
     1. on your browser go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-    2. if you system type is 32-bit, click 32 bit and if your system is 64-bit download 64-bit System Installer
+    2. if your system type is 32-bit, click 32 bit and if your system is 64-bit download 64-bit System Installer
     ![VS Code Installer](CodeInstaller.png)
 
-3. run the dowloaded Installer program
+3. run the dowloaded Installer program and follow the Setup wizard
     1. select "I Accept the agreement"
     2. select default destination folder
     ![Destination](CodeDestination.png)
@@ -24,13 +24,13 @@
 
 ## Launch VS Code App from Windows
 
-1. search for it and run it
+1. search for "VS Code" and run it
 
 ## Configure VS Code for WSL Ubuntu
 
-- if VS Code is configured properly both Ubuntu files and folders and Windows and Ubuntu can be accessed easily from VS Code File -> Open Menu
+- if VS Code is configured properly both Ubuntu files and folders and Windows file system can be accessed easily from VS Code File -> Open Menu
 
-1. first install VS Code in Windows (see above)
+1. first install VS Code on Windows (see above)
 2. install WSL Ubuntu (see [../WSL/README.md](../WSL/README.md))
 3. run Ubuntu App to run Bash Termimal
 4. enter the following command
@@ -48,12 +48,12 @@
 ## Launch VS Code App with Remote Extension
 
 1. open Ubuntu Bash Termimal
-2. enter the following command on Ubuntu Bash Terminal
+2. enter the following command on the Ubuntu Bash Terminal
 
     ```bash
     code .
     ```
 
-## Configure Terminal for VS Code
+## Configure Integreted Terminal on VS Code
 
-- follow the instruction on [VSCode-Terminal-README.md](VSCode-Terminal-README.md)
+- follow the instructions on [VSCode-Terminal-README.md](VSCode-Terminal-README.md)
