@@ -41,6 +41,10 @@ If you're running Mac, follow the instructions in this section
 
 - follow the instructions on [Mac/Mac-JavaScript-README.md](Mac/Mac-JavaScript-README.md)
 
+## Virtual Box and Ubuntu Linux VM
+
+- follow the instructions [here](https://docs.google.com/document/d/1kmjY_8B1UuRr4IMsJefEGnq92zuq7Y9UJCvUJeIj94A/edit?usp=sharing) to install Ubuntu virtual machine using virtual box
+
 ## Ubuntu Linux
 
 If you're running Ubuntu Linux, follow the instructions in this section
