@@ -43,7 +43,7 @@
     ![WSL:Ubuntu](WSL-Code.png)
 
 6. install Remote - WSL extension from Microsoft in WSL:Ubuntu
-    - follow the instructions found in [VSCode-CPP-README.md](VSCode-CPP-README.md) if you've not installed it yet
+    - follow the instructions found in [../../VSCode/VSCode-CPP-README.md](../../VSCode/VSCode-CPP-README.md) if you've not installed it yet
 
 ## Launch VS Code App with Remote Extension
 
