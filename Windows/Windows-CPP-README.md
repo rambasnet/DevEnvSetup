@@ -59,7 +59,7 @@
 
 - follow the instructions in [../Git/Git-Config-README.md](../Git/Git-Config-README.md)
 
-## Install miniconda Python Package Manager
+## Install Miniconda Python Package Manager
 
 - follow the instructions in [../Linux/Miniconda-README.md](../Linux/Miniconda-README.md)
 
@@ -67,7 +67,7 @@
 
 - follow the instructions in [../Linux/Jupyter-README.md](../Linux/Jupyter-README.md)
 
-## Run Jupyter Notebook server
+## Run Jupyter Notebook Server
 
 1. run Bash Terminal
 2. change the working directory to the folder that contains your notebooks or should contain when you create new notebook
