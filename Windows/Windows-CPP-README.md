@@ -77,9 +77,9 @@
     jupyter notebook # run jupyter notebook from the current working directory
     ```
 
-3. if a browser doesn’t open automatically, copy (highlight and release mouse) link shown on the Terminal and paste (Ctrl+v) it to an opened browser (e.g., Chrome)
+3. if a browser doesn’t open automatically, copy (highlight and release mouse) link shown on the Terminal and paste (Ctrl+v) it to a browser (e.g., Chrome)
 
-## Stop Jupyter Notebook server
+## Stop Jupyter Notebook Server
 
 1. to stop jupyter notebook, enter control+c keys on the same Terminal that's running Jupyter server
 
@@ -87,7 +87,7 @@
     control+c # press two buttons simultanesouly to stop jupyter notebook server
     ```
 
-## Access Windows C: files and folders from Ubuntu Bash Terminal
+## Access Windows C Drive Files and Folders from Ubuntu Bash Terminal
 
 1. run Ubuntu Terminal
 2. type the following command
