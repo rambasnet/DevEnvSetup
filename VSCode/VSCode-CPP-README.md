@@ -1,4 +1,4 @@
-# Configure Visual Studio (VS) Code for C++ Development
+# Configure VS Code for C++ Development
 
 ## Run Extensions Marketplace
 

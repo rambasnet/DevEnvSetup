@@ -1,4 +1,4 @@
-# Configure Visual Studio (VS) Code for Python Development
+# Configure VS Code for Python Development
 
 ## Run Extensions Marketplace
 
@@ -11,4 +11,4 @@
 1. open extension marketplace
 2. search Python and install
 ![Python Extension](../resources/VSCodePythonExtension.png)
-3. close and start VS Code
+3. restart VS Code

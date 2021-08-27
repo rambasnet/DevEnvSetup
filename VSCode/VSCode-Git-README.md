@@ -58,4 +58,5 @@
 
 ![CLI Git](Git-CLI.png)
 
-- confrim the remote repository on GitHub is uptodate
+- verify the remote repository on GitHub is uptodate
+
