@@ -17,29 +17,11 @@ If you're running Windows 10, follow the instructions in this section. Windows i
 
 NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine (VM) and follow the instruction for Linux development environment setup. In order to run VM smoothly, your system must have atleast 8 GB RAM and 4 cores so you can allocate half of the resources (4GB RAM and 2 cores -- ideal amount) to your VM. Alternativley, you can format and install Ubuntu Linux as the host Operating System especially if your system doesn't have adequate resources.
 
-### C++ Dev Environment Setup on Windows
-
-- follow the instructions on [Windows/Windows-CPP-README.md](Windows/Windows-CPP-README.md) to setup C++ Dev Environment on Windows
-
-### Python3 Development Environment Setup on Windows
-
-- follow the instructions on [Windows/Windows-Python3-README.md](Windows/Windows-Python3-README.md) to setup Python Dev Environment on Windows
+- see this [README](Windows/README.md) in Windows folder
 
 ## Mac
 
-If you're running Mac, follow the instructions in this section
-
-### C++ Dev Environment Setup on Mac
-
-- follow the instructions on [Mac/Mac-CPP-README.md](Mac/Mac-CPP-README.md) to setup of C++ Dev Environment on Mac
-
-### Python3 Dev Environment Setup on Mac
-
-- follow the instructions on [Mac/Mac-Python3-README.md](Mac/Mac-Python3-README.md) to setup Python3 development environment on mac
-
-### JavaScript Dev Environment Setup on Mac
-
-- follow the instructions on [Mac/Mac-JavaScript-README.md](Mac/Mac-JavaScript-README.md)
+If you're running Mac, follow the instructions on this [README](Mac/README.md) in Mac folder.
 
 ## Virtual Box and Ubuntu Linux VM
 
@@ -47,19 +29,7 @@ If you're running Mac, follow the instructions in this section
 
 ## Ubuntu Linux
 
-If you're running Ubuntu Linux, follow the instructions in this section
-
-### C++ Dev Environment Setup on Ubuntu
-
-- follow the instructions on [Linux/Linux-CPP-README.md](Linux/Linux-CPP-README.md) to setup C++ development environment
-
-### Python3 Dev Environment Setup on Ubuntu
-
-- follow the instructions on [Linux/Linux-Python3-README.md](Linux/Linux-Python3-README.md) to setup Python3 Dev Environment on Ubuntu
-
-### JavaScript Dev Environment Setup on Ubuntu
-
-- follow the instructions on [Linux/Linux-JavaScript-README.md](Linux/Linux-JavaScript-README.md)
+If you're running Ubuntu Linux, follow the instructions in this [README](Linux/README.md)
 
 ## Using Git
 
@@ -83,7 +53,7 @@ If you're running Ubuntu Linux, follow the instructions in this section
 
 - quick reference and showcase [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Student's Sample GitHub Repo
+### Student Sample GitHub Repo
 
 - students should strive to organize their repository with uptodate README file
 - see a sample repo [here](https://github.com/rambasnet/csci000-astudent)
