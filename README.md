@@ -13,19 +13,15 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Windows 10
 
-If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains.
-
-NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine (VM) and follow the instruction for Linux development environment setup. In order to run VM smoothly, your system must have atleast 8 GB RAM and 4 cores so you can allocate half of the resources (4GB RAM and 2 cores -- ideal amount) to your VM. Alternativley, you can format and install Ubuntu Linux as the host Operating System especially if your system doesn't have adequate resources.
-
-- see this [README](Windows/README.md) in Windows folder
+If you're running Windows, follow the instructions on in [README](Windows/README.md) in Windows folder
 
 ## Mac
 
-If you're running Mac, follow the instructions on this [README](Mac/README.md) in Mac folder.
+If you're running Mac, follow the instructions in this [README](Mac/README.md) in Mac folder.
 
 ## Virtual Box and Ubuntu Linux VM
 
-- follow the instructions [here](https://docs.google.com/document/d/1kmjY_8B1UuRr4IMsJefEGnq92zuq7Y9UJCvUJeIj94A/edit?usp=sharing) to install Ubuntu virtual machine using virtual box
+- If you want to install Ubuntu virtual machine as a VM in Virtual Box, follow the instructions [here](https://docs.google.com/document/d/1kmjY_8B1UuRr4IMsJefEGnq92zuq7Y9UJCvUJeIj94A/edit?usp=sharing)
 
 ## Ubuntu Linux
 
