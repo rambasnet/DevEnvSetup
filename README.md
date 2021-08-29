@@ -21,7 +21,7 @@ If you're running Mac, follow the instructions in this [README](Mac/README.md) i
 
 ## Virtual Box and Ubuntu Linux VM
 
-- If you want to install Ubuntu virtual machine as a VM in Virtual Box, follow the instructions [here](https://docs.google.com/document/d/1kmjY_8B1UuRr4IMsJefEGnq92zuq7Y9UJCvUJeIj94A/edit?usp=sharing)
+If you want to install Ubuntu virtual machine as a VM in Virtual Box, follow the instructions [here](https://docs.google.com/document/d/1kmjY_8B1UuRr4IMsJefEGnq92zuq7Y9UJCvUJeIj94A/edit?usp=sharing)
 
 ## Ubuntu Linux
 
