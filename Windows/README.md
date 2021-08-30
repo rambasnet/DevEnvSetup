@@ -38,7 +38,7 @@ NOTE: Certain tool chains may not work with WSL. So, it's highly recommended tha
     ls /mnt/f
     ```
 
-Note: [username] = your username without `< >`
+Note: <mav_username> = your MavZone username without `< >`
 
     - You should see all your personal F: drive files and folders if mapped correctly
 
