@@ -13,11 +13,11 @@ Instructions to Setup Development Environments for various Programming Languages
 
 ## Windows 10
 
-If you're running Windows, follow the instructions on in [README](Windows/README.md) in Windows folder
+If you're running Windows, follow the instructions in [this README](Windows/README.md) in Windows folder.
 
 ## Mac
 
-If you're running Mac, follow the instructions in this [README](Mac/README.md) in Mac folder.
+If you're running Mac, follow the instructions in [this README](Mac/README.md) in Mac folder.
 
 ## Virtual Box and Ubuntu Linux VM Setup
 
