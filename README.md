@@ -61,9 +61,9 @@ If you're running Ubuntu Linux, follow the instructions in this [README](Linux/R
 
 ## Online Code Editors and IDE
 
-- Online IDE - [https://www.online-ide.com/](https://www.online-ide.com/)
 - [https://repl.it/](https://repl.it/)
-- Online debugger - [https://www.onlinegdb.com/online_c++_compiler](https://www.onlinegdb.com/online_c++_compiler)
+- Online IDE - [https://www.online-ide.com/](https://www.online-ide.com/)
+- Online IDE and debugger - [https://www.onlinegdb.com/online_c++_compiler](https://www.onlinegdb.com/online_c++_compiler)
 - [https://coliru.stacked-crooked.com/](https://coliru.stacked-crooked.com/)
 - [http://cpp.sh](http://cpp.sh/)
 
