@@ -24,26 +24,32 @@
 
 ## Launch VS Code App from Windows
 
-1. search for "VS Code" and run it
-
-## Configure VS Code for WSL Ubuntu
-
-- if VS Code is configured properly both Ubuntu files and folders and Windows file system can be accessed easily from VS Code File -> Open Menu
-
-1. first install VS Code on Windows (see above)
-2. install WSL Ubuntu (see [../WSL/README.md](../WSL/README.md))
-3. run Ubuntu App to run Bash Termimal
-4. enter the following command
+1. run Ubuntu App/WSL to run Bash Termimal
+2. enter the following command on Bash Terminal
 
     ```bash
     code .
     ```
 
+## Configure VS Code for WSL Ubuntu
+
+- if VS Code is configured properly both Ubuntu files and folders and Windows file system can be accessed easily from VS Code File -> Open Menu
+
+1. run Ubuntu App to run Bash Termimal
+2. enter the following command
+
+    ```bash
+    code .
+    ```
+
+4. install Remote - WSL extension from Microsoft in WSL:Ubuntu
+    - click on Extensions icon on the left pane
+    - search Remote WSL
+    - install Remote WSL by Microsoft
+    ![Remote WSL Install](Remote-WSL.png)
+
 5. Note that when VS Code is ran from WSL Ubuntu, you should see WSL:Ubuntu on the bottom left
     ![WSL:Ubuntu](WSL-Code.png)
-
-6. install Remote - WSL extension from Microsoft in WSL:Ubuntu
-    - follow the instructions found in [../../VSCode/VSCode-CPP-README.md](../../VSCode/VSCode-CPP-README.md) if you've not installed it yet
 
 ## Launch VS Code App with Remote Extension
 
@@ -53,6 +59,8 @@
     ```bash
     code .
     ```
+3. you should see WSL:Ubuntu on the bottom left
+    ![WSL:Ubuntu](WSL-Code.png)
 
 ## Configure Integreted Terminal on VS Code
 
