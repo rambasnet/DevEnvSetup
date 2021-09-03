@@ -25,8 +25,9 @@ NOTE: Certain tool chains may not work with WSL. So, it's highly recommended tha
 4. Once everything is installed and you get bash terminal, type the following command to update your Linux
 
     ```bash
-    apt update
+    sudo apt update
     ```
+    - type in your password
 
 5. Once WSL is installed, you can click WSL desktop shortcut and then just run shell next time around to use the Bash Terminal
 
