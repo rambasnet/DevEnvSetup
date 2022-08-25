@@ -10,6 +10,8 @@
    uname -m
 ```
 
+![Uname](../resources/mac_uname.png)
+
 3.a if the result of `uname -m` is **x86_64**, type or copy paste the following commands
 
 ```bash
@@ -19,7 +21,7 @@ ls # make sure you see Miniconda3.sh file in the current folder
 bash  Miniconda3-intel.sh # run the downloaded file with bash program
 ```
 
-![Miniconda Install](Miniconda-Install.png)
+![Miniconda Install](../resources/Miniconda-Install.png)
 
 3.b if the result of `uname -m` is **arm64**, type or copy paste the following commands
 
