@@ -54,7 +54,7 @@
 
     ![Ubuntu Account](WSL-Ubuntu-Account.png)
 
-3. update Ubuntu
+3. update WSL Ubuntu
     - type the following command on Bash Terminal
 
     ```bash
@@ -63,7 +63,7 @@
 
     ![Update Ubuntu](WSL-Update.png)
 
-4. run Ubuntu Bash Terminal
-    - search and open Ubuntu
+4. How to run WSL/Ubuntu Bash Terminal
+    - search Ubuntu or WSL and open it
 
     ![Run Ubuntu](WSL-Run-Ubuntu.png)

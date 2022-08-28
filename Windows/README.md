@@ -31,7 +31,7 @@ NOTE: Certain tool chains may not work with WSL. So, it's highly recommended tha
 
 5. Once WSL is installed, you can click WSL desktop shortcut or search for WSL to run Ubuntu Bash Terminal
 
-6. Map F: drive to WSL Ubuntu file system
+6. How to Map F: drive to WSL Ubuntu file system
 
     ```bash
     mkdir -p /mnt/f

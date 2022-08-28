@@ -10,7 +10,7 @@
 - Python 3
 - Jupyter Notebook
 
-## Find Windows 10 username
+## How to Find Windows 10 username
 
 - you must know your Windows username to complete some of steps
 - follow these steps to find your username on Windows
@@ -62,7 +62,7 @@
 
 - follow the instructions in [../Linux/Jupyter-README.md](../Linux/Jupyter-README.md)
 
-## Run Jupyter Notebook server
+## How to Run Jupyter Notebook server
 
 1. run Bash Terminal
 2. change the working directory to the folder that contains your notebooks or should contain when you create new notebook
@@ -74,7 +74,7 @@
 
 3. if a browser doesn’t open, copy and paste (Ctrl+v) link (just highlight and release mouse) shown on terminal to a browser
 
-## Stop Jupyter Notebook server
+## How to Stop Jupyter Notebook server
 
 1. to stop jupyter notebook, enter control+c keys on the same Terminal that's running Jupyter server
 
@@ -82,7 +82,7 @@
     control+c # press two buttons simultanesouly to stop jupyter notebook server
     ```
 
-## Access Windows C: files and folders from Ubuntu Bash Terminal
+## How to Access Windows C: files and folders from Ubuntu Bash Terminal
 
 1. run Ubuntu Terminal
 2. type the following command
@@ -92,3 +92,4 @@
     ```
 
     ![Access Windows](WSL/WindowsDrive.png)
+    

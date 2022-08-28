@@ -1,4 +1,4 @@
-# Setting up C++ Development Environment on Windows 10
+# Setting up C++ Development Environment on Windows
 
 - using Windows Subsystem Layer (WSL) and Ubuntu App
 
@@ -11,7 +11,7 @@
 - Jupyter Notebook
 - C++ kernel for Notebook
 
-## Find Windows 10 username
+## How to Find your username
 
 - you must know your Windows username to complete some of steps
 - follow these steps to find your username on Windows
@@ -30,7 +30,7 @@
 ## Install Visual Studio Code
 
 - recommended editor for writing C++ code, compiling and debugging
-- editor that has many built-in features including git, terminal and many third party plugins to support many programming languages
+- editor that has many built-in features including git, terminal and many third party extensions to support coding in many programming languages
 - follow the instruction provided in [VSCode/VSCode-Install-README.md](VSCode/VSCode-Install-README.md)
 
 ## Configure Visual Studio Code
@@ -41,7 +41,7 @@
 
 - follow the instructions in [WSL/README.md](WSL/README.md)
 
-## Run Ubuntu Bash Terminal/Shell
+## How to Run Ubuntu Bash Terminal/Shell
 
 - any time you need to run Ubuntu Bash Terminal (also called Shell), follow this step
     1. search and run Ubuntu
@@ -67,7 +67,7 @@
 
 - follow the instructions in [../Linux/Jupyter-README.md](../Linux/Jupyter-README.md)
 
-## Run Jupyter Notebook Server
+## How to Run Jupyter Notebook Server
 
 1. run Bash Terminal
 2. change the working directory to the folder that contains your notebooks or should contain when you create new notebook
@@ -79,7 +79,7 @@
 
 3. if a browser doesn’t open automatically, copy (highlight and release mouse) link shown on the Terminal and paste (Ctrl+v) it to a browser (e.g., Chrome)
 
-## Stop Jupyter Notebook Server
+## How to Stop Jupyter Notebook Server
 
 1. to stop jupyter notebook, enter control+c keys on the same Terminal that's running Jupyter server
 
@@ -87,13 +87,13 @@
     control+c # press two buttons simultanesouly to stop jupyter notebook server
     ```
 
-## Access Windows C Drive Files and Folders from Ubuntu Bash Terminal
+## How to Access Windows C Drive Files and Folders from Ubuntu Bash Terminal
 
 1. run Ubuntu Terminal
 2. type the following command
 
     ```bash
-    cd  /mnt/c/Users/<your windows username>
+    cd  /mnt/c/Users/<your_windows_username>
     ```
 
     ![Access Windows](WSL/WindowsDrive.png)
