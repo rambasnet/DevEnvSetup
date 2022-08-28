@@ -11,7 +11,7 @@ Instructions to Setup Development Environments for various Programming Languages
 - any command that starts with **sudo** keyword requires superuser/admin priviledge and prompts for your password
 - **\< ... \>** - is a place holder that must be replaced (including the angular brackets) with the actual content in place
 
-## Windows 10
+## Windows 10/11
 
 If you're running Windows, follow the instructions in [this README](Windows/README.md) in Windows folder.
 

@@ -1,12 +1,12 @@
 
-# Enable WSL and Install Ubuntu App on Windows 10
+# Enable WSL and Install Ubuntu App on Windows 10 and 11
 
-- Official Instruction: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- Official Instruction for Windows 10: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10
 )
-- Windows 10 allows Ubuntu installation as an app
+- Windows 10 and 11 allows Ubuntu installation as an app
 - follow this instruction to install WSL Ubuntu
 
-1. turn Windows Subsystem for Linux feature on following these steps
+1. turn Windows Subsystem for Linux features on following these steps:
     1. search for "Turn Windows features on or off" App without quotes
 
     ![Search Feature](WSL-Search-Feature.png)
@@ -16,11 +16,16 @@
 
     ![Windows Features](WSL-Check-Feature.png)
 
-    4. click ok button
+    4. on Windows 11, Check the "Virtual Machine Platform" as well 
+    5. click ok button
         - Note, it may take a while to apply the setting
-    5. restart your computer
+    6. restart your computer
 
     ![Restart](WSL-Restart.png)
+
+    Note: If the above step don't work:
+    1. ensure virtualization is enabled in bios: 
+    2. If errors are persisting, install the wsl2 kernel update here [https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package) (Under step 4)
 
 2. install Ubuntu App following these steps
     1. search for Microsoft Store and run it
@@ -31,11 +36,11 @@
 
     ![MS Store Ubuntu](WSL-Store-Ubuntu.png)
 
-    3. Install the Ubuntu App
+    3. install the Ubuntu App
 
     ![Ubuntu Install](WSL-Ubuntu-Install.png)
 
-        - Note, it may take a while depending on Internet speed (>4GB download)
+        - Note, dowload may take some time depending on Internet speed (>4GB download)
 
     4. once installed, Launch the app
 
@@ -49,7 +54,7 @@
 
     ![Ubuntu Account](WSL-Ubuntu-Account.png)
 
-3. Update Ubuntu
+3. update Ubuntu
     - type the following command on Bash Terminal
 
     ```bash
@@ -58,7 +63,7 @@
 
     ![Update Ubuntu](WSL-Update.png)
 
-4. Run Ubuntu Bash Terminal
+4. run Ubuntu Bash Terminal
     - search and open Ubuntu
 
     ![Run Ubuntu](WSL-Run-Ubuntu.png)

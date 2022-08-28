@@ -1,6 +1,6 @@
-# Development Evnvironment Setup Instructions on Windows 10
+# Development Evnvironment Setup Instructions on Windows 10/11
 
-If you're running Windows 10, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains.
+If you're running Windows 10/11, follow the instructions in this section. Windows instructions use WSL Ubuntu Bash Terminal to install Linux-based tool chains.
 
 NOTE: Certain tool chains may not work with WSL. So, it's highly recommended that you first install Ubuntu Linux Virtual Machine (VM) and follow the instruction for Linux development environment setup. In order to run VM smoothly, your system must have atleast 8 GB RAM and 4 cores so you can allocate half of the resources (4GB RAM and 2 cores -- ideal amount) to your VM. Alternativley, you can format and install Ubuntu Linux as the host Operating System especially if your system doesn't have adequate resources.
 
@@ -12,9 +12,9 @@ NOTE: Certain tool chains may not work with WSL. So, it's highly recommended tha
 
 - follow the instructions on [Windows-Python3-README.md](Windows-Python3-README.md) to setup Python Dev Environment on Windows
 
-## Install WSL on CMU Labs Windows 10 System
+## Install WSL on CMU Labs Windows System
 
-- On CS Labs Windows 10 System, follow these instructions:
+- On CS Labs Windows System, follow these instructions:
 
 - NOTE: Pick a system and stick to it for the rest of the semester! Otherwise, you may have to install WSL and all the tools on every system you use.
 
