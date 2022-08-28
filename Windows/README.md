@@ -29,9 +29,9 @@ NOTE: Certain tool chains may not work with WSL. So, it's highly recommended tha
     ```
     - type in your password
 
-5. Once WSL is installed, you can click WSL desktop shortcut and then just run shell next time around to use the Bash Terminal
+5. Once WSL is installed, you can click WSL desktop shortcut or search for WSL to run Ubuntu Bash Terminal
 
-6. Map F: drive to Ubuntu file system
+6. Map F: drive to WSL Ubuntu file system
 
     ```bash
     mkdir -p /mnt/f
