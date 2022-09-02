@@ -34,13 +34,13 @@
 
     2. search and open Ubuntu App
 
-    ![MS Store Ubuntu](WSL-Store-Ubuntu.png)
-
-    3. install the Ubuntu App
+    3.1 On Windows 11, install the Ubuntu App
 
     ![Ubuntu Install](WSL-Ubuntu-Install.png)
 
         - Note, dowload may take some time depending on Internet speed (>4GB download)
+
+    3.2 On Windows 10, install the Ubuntu 20.04 LTS App
 
     4. once installed, Launch the app
 
